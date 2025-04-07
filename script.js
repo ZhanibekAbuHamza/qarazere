@@ -1,0 +1,1 @@
+console.log("Qara Zere Market іске қосылды!");
